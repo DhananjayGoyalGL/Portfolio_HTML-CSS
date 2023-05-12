@@ -1,1 +1,1 @@
-Build an awesome portfolio , HTML and CSS, with the tiniest bit of JavaScript are the technologies used.
+Build an portfolio to strengthen the Frontend concepts with the help of HTML, CSS & a little of JavaScript.
